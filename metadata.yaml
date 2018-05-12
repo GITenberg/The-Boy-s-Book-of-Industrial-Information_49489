@@ -1,10 +1,16 @@
 _repo: The-Boy-s-Book-of-Industrial-Information_49489
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49489-h/images/cover.jpg
 creator:
   author:
     agent_name: Noyce, Elisha
     gutenberg_agent_id: '45013'
     url: http://www.gutenberg.org/2009/agents/45013
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49489#The-Boy-s-Book-of-Industrial-Information
 gutenberg_issued: '2015-07-19'
 gutenberg_type: Text
 identifiers:
